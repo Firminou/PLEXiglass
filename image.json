@@ -1,0 +1,46 @@
+{
+  "series": [
+    {
+    "title": "Beastars",
+    "image_id": "beastars"
+    },
+    {
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "image_id": "rezero"
+    },
+    {
+    "title": "South Park",
+    "image_id": "south_park"
+    },
+    {
+    "title": "Death Note",
+    "image_id": "death_note"
+    },
+    {
+    "title": "Steven Universe",
+    "image_id": "steven_universe"
+    },
+    {
+    "title": "Jojo\"s Bizarre Adventure (2012)",
+    "image_id": "jojo"
+    }
+],
+    "movies": [
+    {
+    "title": "Ponyo",
+    "image_id": "ponyo"
+    },
+    {
+    "title": "Princess Mononoke",
+    "image_id": "mononoke"
+    },
+    {
+    "title": "The Truman Show",
+    "image_id": "truman"
+    },
+    {
+    "title": "Perfect Blue",
+    "image_id": "perfect_blue"
+    }
+  ]
+}
